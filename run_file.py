@@ -2,7 +2,7 @@ import requests
 import datetime as day_module
 
 # My user details
-username = "daswealth"
+username = "your username"
 token = "my_token"
 graph_name = "My study Graph"
 graph_id = "firstgraph"
